@@ -1,1 +1,1 @@
-# Machine-Learning-Foundation-project
+# Kaggle dataset and learning process
